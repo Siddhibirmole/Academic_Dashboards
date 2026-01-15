@@ -1,2 +1,1 @@
-# Academic_Dashboards
-his project is an Academic Performance Dashboard created using Microsoft Excel as part of my Data Analysis course on Udemy. The dashboard analyzes student academic data to understand performance trends, subject-wise scores, and overall results using interactive visuals. Techniques Used  Microsoft Excel  Pivot Tables  Pivot Charts  Slicers.  
+# Academic_Dashboards project is an Academic Performance Dashboard created using Microsoft Excel as part of my Data Analysis course on Udemy. The dashboard analyzes student academic data to understand performance trends, subject-wise scores, and overall results using interactive visuals. Techniques Used  Microsoft Excel  Pivot Tables  Pivot Charts  Slicers.  
